@@ -33,3 +33,11 @@ def keliling_persegi():
     print("keliling persegi adalah: ", keliling)
 
 keliling_persegi()
+
+#hitung keliling segitiga
+def keliling_segitiga():
+    s = int(input("masukkan sisi segitiga: "))
+    keliling = 3 * s
+    print("keliling segitiga adalah: ", keliling)
+
+keliling_segitiga()
