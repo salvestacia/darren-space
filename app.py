@@ -25,3 +25,11 @@ def luas_trapesium():
     print("luas trapesium adalah: ", luas)
 
 luas_trapesium()
+
+#hitung keliling persegi 
+def keliling_persegi():
+    s = int(input("masukkan sisi persegi: "))
+    keliling = 4 * s
+    print("keliling persegi adalah: ", keliling)
+
+keliling_persegi()
