@@ -1,6 +1,5 @@
 import turtle
 import random
-
 def draw_triangle(size, color):
     turtle.fillcolor(color)
     turtle.begin_fill()
